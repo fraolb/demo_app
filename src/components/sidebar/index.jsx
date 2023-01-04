@@ -2,7 +2,7 @@ import React from "react";
 import FormatListBulletedOutlinedIcon from "@mui/icons-material/FormatListBulletedOutlined";
 import { Divider } from "@mui/material";
 import { Link } from "react-router-dom";
-import { Sidebar, Menu, MenuItem, SubMenu } from "react-pro-sidebar";
+
 import "./sideBar.css";
 
 const Sidebar1 = () => {
