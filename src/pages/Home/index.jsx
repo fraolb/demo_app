@@ -1,7 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import Luther from "./../../assets/luther.png";
-import Adventist from "./../../assets/adventist.png";
 import Souls from "./../../assets/souls.png";
 import Church1 from "./../../assets/church1.png";
 import Church2 from "./../../assets/church2.png";
