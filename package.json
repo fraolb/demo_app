@@ -2,7 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage" : "https:/fraolb.github.io/demo_app",
+  "homepage": "https:/fraolb.github.io/demo_app",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -26,8 +26,7 @@
     "react": "^18.2.0",
     "react-activity-rings": "^1.1.0",
     "react-chartjs-2": "^5.1.0",
-    "react-dom": "^18.2.0",
-    "react-pro-sidebar": "^1.0.0-alpha.9"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
